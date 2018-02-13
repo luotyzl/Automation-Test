@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\CFGTest\C#\.vs\PaymentPageTest\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrator\Desktop\CFGTest\C#\.vs\PaymentPageTest\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrator\Desktop\CFGTest\C#\.vs\PaymentPageTest\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrator\Desktop\CFGTest\C#\.vs\PaymentPageTest\lut\0\b\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Administrator\Desktop\CFGTest\C#\.vs\PaymentPageTest\lut\0\b\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Administrator\Desktop\CFGTest\C#\.vs\PaymentPageTest\lut\0\b\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Administrator\Desktop\CFGTest\C#\.vs\PaymentPageTest\lut\0\b\PaymentPageTest.dll
+C:\Users\Administrator\Desktop\CFGTest\C#\.vs\PaymentPageTest\lut\0\b\PaymentPageTest.pdb
+C:\Users\Administrator\Desktop\CFGTest\C#\.vs\PaymentPageTest\lut\0\i\PaymentPageTest\Debug\PaymentPageTest.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\CFGTest\C#\.vs\PaymentPageTest\lut\0\i\PaymentPageTest\Debug\PaymentPageTest.dll
+C:\Users\Administrator\Desktop\CFGTest\C#\.vs\PaymentPageTest\lut\0\i\PaymentPageTest\Debug\PaymentPageTest.pdb
